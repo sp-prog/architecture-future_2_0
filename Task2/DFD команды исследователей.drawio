@@ -1,67 +1,67 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:136.0) Gecko/20100101 Firefox/136.0" version="26.2.14">
-  <diagram name="Страница — 1" id="whZMYILbxVOrprEGEj1O">
-    <mxGraphModel dx="1239" dy="2280" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
-      <root>
-        <mxCell id="0" />
-        <mxCell id="1" parent="0" />
-        <mxCell id="Oa0jYk22MSWo3nhFKInB-1" value="Данные аналитики" style="endArrow=classic;html=1;rounded=1;curved=0;" edge="1" parent="1" source="Oa0jYk22MSWo3nhFKInB-4" target="Oa0jYk22MSWo3nhFKInB-2">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1590" y="540" as="sourcePoint" />
-            <mxPoint x="1640" y="490" as="targetPoint" />
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Oa0jYk22MSWo3nhFKInB-2" value="Инженер обучения" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="1120" y="30" width="100" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="Oa0jYk22MSWo3nhFKInB-3" value="Аналитик" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="1380" y="-70" width="100" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="Oa0jYk22MSWo3nhFKInB-4" value="Локальный каталог данных" style="html=1;dashed=0;whiteSpace=wrap;shape=partialRectangle;right=0;left=0;" vertex="1" parent="1">
-          <mxGeometry x="1120" y="-60" width="100" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="Oa0jYk22MSWo3nhFKInB-5" value="Обработка данных" style="shape=ellipse;html=1;dashed=0;whiteSpace=wrap;aspect=fixed;perimeter=ellipsePerimeter;" vertex="1" parent="1">
-          <mxGeometry x="1260" y="-190" width="60" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="Oa0jYk22MSWo3nhFKInB-6" value="Подготовка данных для ИИ" style="shape=ellipse;html=1;dashed=0;whiteSpace=wrap;aspect=fixed;perimeter=ellipsePerimeter;" vertex="1" parent="1">
-          <mxGeometry x="1140" y="130" width="60" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="Oa0jYk22MSWo3nhFKInB-7" value="Данные" style="endArrow=classic;html=1;rounded=1;curved=0;" edge="1" parent="1" source="Oa0jYk22MSWo3nhFKInB-3" target="Oa0jYk22MSWo3nhFKInB-5">
-          <mxGeometry x="0.1303" y="-8" width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1650" y="106" as="sourcePoint" />
-            <mxPoint x="1464" y="-10" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="1430" y="-120" />
-            </Array>
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Oa0jYk22MSWo3nhFKInB-8" value="Данные" style="endArrow=classic;html=1;rounded=1;curved=0;" edge="1" parent="1" source="Oa0jYk22MSWo3nhFKInB-5" target="Oa0jYk22MSWo3nhFKInB-4">
-          <mxGeometry x="0.2315" width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1390" y="-51" as="sourcePoint" />
-            <mxPoint x="1317" y="-125" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="1170" y="-120" />
-            </Array>
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Oa0jYk22MSWo3nhFKInB-9" value="Данные для обучения" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="Oa0jYk22MSWo3nhFKInB-2" target="Oa0jYk22MSWo3nhFKInB-6">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1160" y="300" as="sourcePoint" />
-            <mxPoint x="1210" y="250" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Oa0jYk22MSWo3nhFKInB-10" value="ИИ" style="html=1;dashed=0;whiteSpace=wrap;shape=partialRectangle;right=0;left=0;" vertex="1" parent="1">
-          <mxGeometry x="1120" y="240" width="100" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="Oa0jYk22MSWo3nhFKInB-11" value="Результаты обучения" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="Oa0jYk22MSWo3nhFKInB-6" target="Oa0jYk22MSWo3nhFKInB-10">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1160" y="160" as="sourcePoint" />
-            <mxPoint x="1180" y="140" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-      </root>
-    </mxGraphModel>
-  </diagram>
+<mxfile host="65bd71144e">
+    <diagram name="Страница — 1" id="whZMYILbxVOrprEGEj1O">
+        <mxGraphModel dx="923" dy="2308" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="Oa0jYk22MSWo3nhFKInB-1" value="Данные аналитики" style="endArrow=classic;html=1;rounded=1;curved=0;" parent="1" source="Oa0jYk22MSWo3nhFKInB-4" target="Oa0jYk22MSWo3nhFKInB-2" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="1590" y="540" as="sourcePoint"/>
+                        <mxPoint x="1640" y="490" as="targetPoint"/>
+                        <mxPoint as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="Oa0jYk22MSWo3nhFKInB-2" value="Инженер обучения" style="html=1;dashed=0;whiteSpace=wrap;" parent="1" vertex="1">
+                    <mxGeometry x="1120" y="30" width="100" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="Oa0jYk22MSWo3nhFKInB-3" value="Аналитик" style="html=1;dashed=0;whiteSpace=wrap;" parent="1" vertex="1">
+                    <mxGeometry x="1380" y="-70" width="100" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="Oa0jYk22MSWo3nhFKInB-4" value="Данные для аналитики" style="html=1;dashed=0;whiteSpace=wrap;shape=partialRectangle;right=0;left=0;" parent="1" vertex="1">
+                    <mxGeometry x="1120" y="-60" width="100" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="Oa0jYk22MSWo3nhFKInB-5" value="Обработка данных" style="shape=ellipse;html=1;dashed=0;whiteSpace=wrap;aspect=fixed;perimeter=ellipsePerimeter;" parent="1" vertex="1">
+                    <mxGeometry x="1260" y="-190" width="60" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="Oa0jYk22MSWo3nhFKInB-6" value="Подготовка данных для ИИ" style="shape=ellipse;html=1;dashed=0;whiteSpace=wrap;aspect=fixed;perimeter=ellipsePerimeter;" parent="1" vertex="1">
+                    <mxGeometry x="1140" y="130" width="60" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="Oa0jYk22MSWo3nhFKInB-7" value="Данные" style="endArrow=classic;html=1;rounded=1;curved=0;" parent="1" source="Oa0jYk22MSWo3nhFKInB-3" target="Oa0jYk22MSWo3nhFKInB-5" edge="1">
+                    <mxGeometry x="0.1303" y="-8" width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="1650" y="106" as="sourcePoint"/>
+                        <mxPoint x="1464" y="-10" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="1430" y="-120"/>
+                        </Array>
+                        <mxPoint as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="Oa0jYk22MSWo3nhFKInB-8" value="Данные" style="endArrow=classic;html=1;rounded=1;curved=0;" parent="1" source="Oa0jYk22MSWo3nhFKInB-5" target="Oa0jYk22MSWo3nhFKInB-4" edge="1">
+                    <mxGeometry x="0.2315" width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="1390" y="-51" as="sourcePoint"/>
+                        <mxPoint x="1317" y="-125" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="1170" y="-120"/>
+                        </Array>
+                        <mxPoint as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="Oa0jYk22MSWo3nhFKInB-9" value="Данные для обучения" style="endArrow=classic;html=1;rounded=0;" parent="1" source="Oa0jYk22MSWo3nhFKInB-2" target="Oa0jYk22MSWo3nhFKInB-6" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="1160" y="300" as="sourcePoint"/>
+                        <mxPoint x="1210" y="250" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="Oa0jYk22MSWo3nhFKInB-10" value="данные для ИИ" style="html=1;dashed=0;whiteSpace=wrap;shape=partialRectangle;right=0;left=0;" parent="1" vertex="1">
+                    <mxGeometry x="1120" y="240" width="100" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="Oa0jYk22MSWo3nhFKInB-11" value="Результаты обучения" style="endArrow=classic;html=1;rounded=0;" parent="1" source="Oa0jYk22MSWo3nhFKInB-6" target="Oa0jYk22MSWo3nhFKInB-10" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="1160" y="160" as="sourcePoint"/>
+                        <mxPoint x="1180" y="140" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
 </mxfile>
